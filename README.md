@@ -41,4 +41,4 @@ This project is based on an original implementation by Concept-Bytes. The origin
 ## Credits  
 Original Project by [Concept-Bytes](https://github.com/Concept-Bytes)
 
-Modified and extended by [Prithivkanth](https://github.com/prithivkanth) and [Bojith_Akash](https://github.com/BOJITH14072005) 
+Modified and extended by [Prasanth](https://github.com/Prasanth-NJ1), [Prithivkanth](https://github.com/prithivkanth) and [Bojith_Akash](https://github.com/BOJITH14072005) 
